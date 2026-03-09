@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
-<h3 align="center">Diploma IT Student</h3>
+<h3 align="center">BCA Student</h3>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=krishmaheshwari623&label=Profile%20views&color=0e75b6&style=flat" alt="krishmaheshwari623" /> 
@@ -15,7 +15,7 @@
 
 - 💻 Interested in **Web Development**
 
-- 📫 How to reach me **your-email@gmail.com**
+- 📫 How to reach me **Krishmaheshwari623**
 
 <h3 align="left">Languages and Tools:</h3>
 
