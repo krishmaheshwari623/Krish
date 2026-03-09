@@ -15,8 +15,7 @@
 
 - 💻 Interested in **Web Development**
 
-- 📫 How to reach me **krishmaheshwari623@gmail.
-com**
+- 📫 How to reach me **krishmaheshwari623@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
